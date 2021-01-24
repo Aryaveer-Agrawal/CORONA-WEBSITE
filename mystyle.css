@@ -1,0 +1,57 @@
+#div1
+{
+height:500px;
+background-image:url('Coronavirus-1.jpg');
+font-size:50px;
+color:white;
+text-align:center;
+padding: 30px;
+}
+ul li
+{
+  list-style:none;
+  padding: 10px;
+
+}
+#div2
+{
+    font-size:15px;
+}
+ul
+{
+    display:flex;
+    justify-content: center;
+}
+ul li:hover
+{
+ border-bottom: 3px solid white ;
+}
+#div3
+{
+  height:500px;
+  background: linear-gradient(blue,lightblue);
+  color:#ffffff;
+  font-size:20px;
+  text-align:center;
+}
+#div4
+{
+  height:500px;
+  background: linear-gradient(black,grey);
+  color:#ffffff;
+  font-size:20px;
+  text-align:center;
+}
+#div5
+{
+  height:500px;
+  background-image:url('CORONAVIRUS-2.jpg');
+  color:#ffffff;
+  font-size:20px;
+  text-align:center;
+}
+ul li a
+{
+  text-decoration:none;
+  color:#ffffff;
+}
